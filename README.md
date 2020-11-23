@@ -10,22 +10,36 @@ I am 60 years old, Medically Retired United States Air Force Computer Station (E
 I am thinking the Arduino Uno or Mega would be a good choice for a board
 These are some of the Magnetometer components I have found:
 ARCELI GY-273 QMC5883L Triple Axis Compass Magnetometer Sensor Module Arduino 3V-5V 
+
 https://www.amazon.com/ARCELI-QMC5883L-Compass-Magnetometer-Arduino/dp/B07DN1862K
+
 ACROBOTIC QMC5883L Triple-Axis Compass Magnetometer Sensor Breakout Board GY-273 for Arduino Raspberry Pi ESP8266 GY273 | HMC5883L EOL Replacement 
+
 https://www.amazon.com/dp/B07M9WBWS2
-[Military-Grade Magnetometer Compensation Chip] PNI RM3100 High-Accuracy Magnetometer Geomagnetism, Magnet Field Sensor, High-Revolution Electronic Compass Module for Development Project 
+
+[Military-Grade Magnetometer Compensation Chip] PNI RM3100 High-Accuracy Magnetometer Geomagnetism, Magnet Field Sensor, High-Revolution Electronic Compass Module for 
+
+Development Project 
 https://www.amazon.com/dp/B01N5QL0XC
-Adafruit Triple-axis Magnetometer - LIS3MDL - STEMMA QT / Qwiic
-https://www.adafruit.com/product/4479
-https://github.com/adafruit/Adafruit_LIS3MDL
-Adafruit TLV493D Triple-Axis Magnetometer - STEMMA QT / Qwiic
-https://www.adafruit.com/product/4366
+
+Adafruit Triple-axis Magnetometer - LIS3MDL - STEMMA QT / Qwiic https://www.adafruit.com/product/4479 and https://github.com/adafruit/Adafruit_LIS3MDL
+
+Adafruit TLV493D Triple-Axis Magnetometer - STEMMA QT / Qwiic https://www.adafruit.com/product/4366
+
 These are some projects I found, and specs for hooking them up:
+
 https://www.sparkfun.com/tutorials/301
+
 http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/Magneto/HMC5883L-FDS.pdf
+
 https://www.meccanismocomplesso.org/en/arduino-measuring-the-earths-magnetic-field-with-the-magnetometer-hmc5883l/
+
 https://www.electronoobs.com/eng_arduino_tut77.php
+
 https://theorycircuit.com/arduino-hmc5883l-magnetometer-interfacing/
+
 https://circuitdigest.com/microcontroller-projects/digital-compass-with-arduino-and-hmc5883l-magnetometer
+
 For more information see the [Wiki](https://github.com/Light-Wizzard/End-Of-Time-Recorder/wiki), [the Magnetometer project is here](https://github.com/Light-Wizzard/End-Of-Time-Recorder/wiki/Magnetometers)
+
 Thanks, Flesh
